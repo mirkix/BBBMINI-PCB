@@ -32,3 +32,7 @@ Search for GY-9250 or MPU-9250 at [aliexpress](http://www.aliexpress.com)
 ### MS5611
 
 Search for GY-63 or MS5611 at [aliexpress](http://www.aliexpress.com)
+
+### HC-SR04
+
+Search for HC-SR04, there are a lot of sellers.
