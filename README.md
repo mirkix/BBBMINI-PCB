@@ -27,11 +27,11 @@ Upload [bbbmini.zip](kicad/gerber/bbbmini.zip) to supplier.
 
 ### MPU-9250
 
-Search for GY-9250 or MPU-9250 at [aliexpress](http://www.aliexpress.com)
+Search for GY-9250 or MPU-9250 at [aliexpress](http://www.aliexpress.com/wholesale?SearchText=gy-9250)
 
 ### MS5611
 
-Search for GY-63 or MS5611 at [aliexpress](http://www.aliexpress.com)
+Search for GY-63 or MS5611 at [aliexpress](http://www.aliexpress.com/wholesale?SearchText=gy-63)
 
 ### HC-SR04
 
