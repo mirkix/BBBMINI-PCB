@@ -67,7 +67,7 @@ Search for HC-SR04, there are a lot of sellers.
 
 
 ### P7
-* 2.54mm pin header 1 x 7 straight
+* 2.54mm pin header 1 x 5 straight
 * UART4 port
 * RX and TV 3.3V signals
 
@@ -83,7 +83,7 @@ Search for HC-SR04, there are a lot of sellers.
 
 
 ### P10
-* 2.54mm pin header 1 x 7 straight
+* 2.54mm pin header 1 x 5 straight
 * UART5 port (GPS)
 * RX and TX 3.3V signals
 
