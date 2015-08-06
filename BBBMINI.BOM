@@ -6,17 +6,17 @@ Bill Of Materials        August 5,2015      15:23:23	Page1
 Item	Quantity	Reference	Part
 ______________________________________________
 
-1	1	PCB		BBB ArduPilot Cape 1.4
-3	1	R1		120
+1	1	PCB	BBB ArduPilot Cape 1.4
+3	1	R1	120
 3	2	R2,R4	1K
 4	2	R3,R5	2K
 5	2	C1,C2	0.1u
-6	1	U1		MCP 2562-E/P CAN transceiver
+6	1	U1	MCP 2562-E/P CAN transceiver
 7	1	MPU9250	GY-9250 IMU breakout board
 8	1	MS5611	GY-63 Baro breakout board
 9	2	P8,P9	2x40 Pin Male Header
 10	1	P1,P2	3x40 Right Angle Pin Header
-11	2	P4,P5,..	Break-away Male Header 0.1" 40-pin Single Row
+11	2	P4,P5	Break-away Male Header 0.1" 40-pin Single Row
 12	1	P16-P18	Male Header-0.1" 40-pin DIP Right Angle Single Row
-13	1	P3		Jumper	
-14	1	P19		HC-SR04 Ultrasonic Module
+13	1	P3	Jumper	
+14	1	P19	HC-SR04 Ultrasonic Module
