@@ -1,5 +1,7 @@
 # BBBMINI-PCB
 
+![alt text](picture/bbbmini.png "BBBMINI-PCB")
+
 ## Changelog
 
 Rev 1.4
