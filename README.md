@@ -2,6 +2,12 @@
 
 ![alt text](picture/bbbmini.png "BBBMINI-PCB")
 
+## License
+
+[GPLv3](http://www.gnu.org/licenses/gpl.html)
+
+This is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the [GNU General Public License](http://www.gnu.org/licenses/gpl.html) for more details.
+
 ## Changelog
 
 Rev 1.4
