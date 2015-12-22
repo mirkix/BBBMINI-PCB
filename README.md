@@ -32,16 +32,17 @@ Goto http://www.shenzhen2u.com/PCB
 
 Upload [bbbmini.zip](kicad/gerber/bbbmini.zip) to supplier.
 
+Finish your order.
 
-### MPU-9250
+### IMU MPU-9250
 
 Search for GY-9250 or MPU-9250 at [aliexpress](http://www.aliexpress.com/wholesale?SearchText=gy-9250)
 
-### MS5611
+### Baro MS5611
 
 Search for GY-63 or MS5611 at [aliexpress](http://www.aliexpress.com/wholesale?SearchText=gy-63)
 
-### HC-SR04
+### Rangefinder HC-SR04
 
 Search for HC-SR04, there are a lot of sellers.
 
@@ -82,12 +83,12 @@ Search for HC-SR04, there are a lot of sellers.
 
 ### P8
 * 2.54mm pin header 2 x 23 straight
-* BBB connector, pin header has to soldered on the back of the BBBMINI-PCB
+* BeagleBone connector, pin header has to soldered on the back of the BBBMINI-PCB
 
 
 ### P9
 * 2.54mm pin header 2 x 23 straight
-* BBB connector, pin header has to soldered on the back of the BBBMINI-PCB
+* BeagleBone connector, pin header has to soldered on the back of the BBBMINI-PCB
 
 
 ### P10
