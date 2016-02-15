@@ -151,3 +151,12 @@ Search for HC-SR04, there are a lot of sellers.
 * 2.54mm pin header 1 x 4 straight
 * Ultrasonic Range Finder connector
 * Connect HC-SR04 Range Finder here.  
+
+### P20
+* 2.54mm pin header 1 x 5 straight
+* External I2C Bus  connector for additional hardware.
+* SDA and SCL 3.3V
+
+### P21
+* 2.54mm pin header 1 x 5 straight
+* Current and voltage sensing via Power Module
