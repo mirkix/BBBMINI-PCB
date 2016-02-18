@@ -19,6 +19,5 @@ ______________________________________________
 11	2	P8,P9	2x40 Pin Male Header
 12	1	P1,P2	3x40 Right Angle Pin Header
 13	2	P4,P5	Break-away Male Header 0.1" 40-pin Single Row
-14	1	P16-P18	Male Header-0.1" 40-pin DIP Right Angle Single Row
-15	1	P3	Jumper	
-16	1	P19	HC-SR04 Ultrasonic Module
+14	1	P16-P21	Male Header-0.1" 40-pin DIP Right Angle Single Row
+15	1	P3	Jumper
