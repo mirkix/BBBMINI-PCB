@@ -83,7 +83,7 @@ Search for HC-SR04, there are a lot of sellers.
 ### P7
 * 2.54mm pin header 1 x 5 straight
 * UART4 port
-* RX and TV 3.3V signals
+* RX and TX 3.3V signals
 
 
 ### P8
