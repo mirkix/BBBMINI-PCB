@@ -158,5 +158,5 @@ Search for HC-SR04, there are a lot of sellers.
 * SDA and SCL 3.3V
 
 ### P21
-* 2.54mm pin header 1 x 5 straight
+* 2.54mm pin header 1 x 3 straight
 * Current and voltage sensing via Power Module
