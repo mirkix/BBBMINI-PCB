@@ -29,7 +29,9 @@ Rev 1.2
 
 ### PCB
 
-This is an example how you can get 10 BBBMINI-PCBs for less than 30$.
+You can order BBBmini PCBs from OSHPARK https://oshpark.com/shared_projects/CtVQp1YO .
+
+This is an example how you can get 10 BBBMINI-PCBs for less than 30$ at Shenthen2u.
 
 Goto http://www.shenzhen2u.com/PCB 
 
